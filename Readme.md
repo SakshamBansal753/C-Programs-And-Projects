@@ -28,5 +28,8 @@ The programs are organized by **concepts** and **difficulty**, so whether you're
 - 💡 **Problem Solving & Logic** – Number theory, matrix operations, and more
 
 **At last My Linkedin details**
-<a href="https://www.linkedin.com/in/saksham-bansal-58123333a/"/>
+<a href="https://www.linkedin.com/in/saksham-bansal-58123333a/"><br>
+Saksham Bansal
+ </a>
+
 Happy coding! 💻✨
